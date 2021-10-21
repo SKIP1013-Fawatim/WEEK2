@@ -1,0 +1,21 @@
+package myLife;
+
+public class CampusLife {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		System.out.println("6.00 a.m - Mandi dan bersiap untuk menunaikan solat Subuh.");
+		System.out.println("7.00 a.m - Menyusun buku dan bersarapan.");
+		System.out.println("8.15 a.m - Berada di hadapan laptop.");
+		System.out.println("8.30 a.m - Mengikuti kelas online.");
+		System.out.println("1.30 p.m - Makan Tengah hari dan solat zuhur.");
+		System.out.println("2.30 p.m - Sambung Kelas Online kemudian solat asar.");
+		System.out.println("7.00 p.m - Solat Maghrib dan Isyak.");
+		System.out.println("9.00 p.m - Melihat Instagram dan Youtube.");
+		System.out.println("10.00 p.m - Membuat kerja Programming.");
+		System.out.println("12.00 a.m - Bersiap untuk tidur.");
+
+	}
+
+}
